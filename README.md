@@ -14,3 +14,7 @@ From the left, the idea of healthcare reform is a good one.  But the way that it
 * Create a balanced economic model that re-integrates communities and gift economies and rewards sustainability, not growth, as its ultimate goal.
 
 How can we raise awareness and participation for the creation of this future?
+
+# Facets
+
+[Climate](/climate)
