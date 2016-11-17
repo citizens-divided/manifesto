@@ -17,4 +17,4 @@ How can we raise awareness and participation for the creation of this future?
 
 # Facets
 
-[Climate](/climate)
+[Climate](/climate.md)
